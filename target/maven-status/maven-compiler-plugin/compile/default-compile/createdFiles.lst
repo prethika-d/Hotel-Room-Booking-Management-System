@@ -1,0 +1,4 @@
+com\hotel\repository\RoomRepository.class
+com\hotel\model\Room.class
+com\hotel\service\BookingService.class
+com\hotel\HotelApplication.class
